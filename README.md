@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-solution-6GcPiTPVT4)
 - Live Site URL: [GitHub](https://kalebemax.github.io/qr-code-component-main/)
 
 

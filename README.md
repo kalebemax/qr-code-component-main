@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://kalebemax.github.io/qr-code-component-main/)
 
 
 
